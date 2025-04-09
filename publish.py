@@ -45,7 +45,7 @@ while True:
 
     # Autenticación en WordPress
     # USUARIO = "newstoday"
-    # PASSWORD = "Juventudrd+"
+    # PASSWORD = ""
     payload = dict(username=USUARIO, password=PASSWORD)
     # print(payload)
 
